@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on making my first game
 - 📫 How to reach me ... idk ask bro
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
 
 <!---
 angelodedeyi/angelodedeyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
